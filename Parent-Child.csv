@@ -1,0 +1,21 @@
+ID,NAME,SON_ID
+1,one child,
+2,2 generations,3
+3,2 generations,
+4,5 generations,5
+5,5 generations,6
+6,5 generations,7
+7,5 generations,8
+8,5 generations,
+9,one child,
+10,10 Generations,11
+11,10 Generations,12
+12,10 Generations,13
+13,10 Generations,14
+14,10 Generations,15
+15,10 Generations,16
+16,10 Generations,17
+17,10 Generations,18
+18,10 Generations,19
+19,10 Generations,20
+20,10 Generations,
